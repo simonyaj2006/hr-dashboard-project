@@ -1,6 +1,6 @@
 # hr-dashboard-project
 
-Welcome to the HR Analytics Tableau Project repository! This project demonstrates how to build a complete end-to-end HR analytics solution, from raw HR data pre-processing to the creation of interactive Tableau dashboards. Designed  as a portfolio project, it reflects industry practices in  data analytics, visualization, and business intelligence. 
+Welcome to the **HR Analytics Tableau Project** repository! This project demonstrates how to build a complete end-to-end HR analytics solution, from raw HR data pre-processing to the creation of interactive Tableau dashboards. Designed  as a portfolio project, it reflects industry practices in  data analytics, visualization, and business intelligence. 
 
 ---
 
