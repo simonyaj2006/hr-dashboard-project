@@ -1,6 +1,6 @@
-# hr-dashboard-project
+# HR Analytics Tableau Project
 
-Welcome to the **HR Analytics Tableau Project** repository! This project demonstrates how to build a complete end-to-end HR analytics solution, from raw HR data pre-processing to the creation of interactive Tableau dashboards. Designed  as a portfolio project, it reflects industry practices in  data analytics, visualization, and business intelligence. 
+Welcome to the **HR Analytics Tableau Project** repository! This project demonstrates how to build a complete end-to-end HR analytics solution, from raw HR data pre-processing to the creation of interactive Tableau dashboards. Designed  as a portfolio project, it reflects industry practices in  **data analytics**, **visualization**, and **business intelligence**. 
 
 ---
 
@@ -17,14 +17,14 @@ Although this project is focused on Tableau, it still follows a simplified pipel
 
 ## Project Overview
 
-The HR Analytics Project is focused on employee data analysis to help HR teams improve decision-making and understand key workforce trends.
+The HR Analytics Project is focused on **employee data analysis** to help HR teams improve decision-making and understand key workforce trends.
 
 This Project involves: 
 
 1.  **Data Collection & preparation**: Cleaning and transforming HR datasets (employee details, performance, attrition, salaries).
 2.  **Data Modeling**: Structuring HR data into a format optimized for analysis.
 3.  **Visualization**: Developing an interactive  HR dashboard in Tableau.
-4.  **Innsights**: Providing actionable analytics on employee attrition, diversity, performance, and compensation trends.
+4.  **Innsights**: Providing actionable analytics on **employee attrition**, **diversity**, **performance**, and **compensation trends**.
 
 This repository is a great resource for professionals and students to showcase expertise in: 
 - Data Preparation (Excel/SQL/CSV cleaning)
