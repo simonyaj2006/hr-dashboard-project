@@ -85,7 +85,7 @@ The income analysis section should focus on salary-related metrics, including:
 ```
 hr-analytics-tableau-project/
 │
-├── datasets/                           # Raw and cleaned HR datasets (CSV/Excel)
+├── images/                             # Images used for dashboard
 │
 ├── docs/                               # Project documentation and visuals
 │   ├── hr_dashboard.png                # Screenshot of the final Tableau dashboard
