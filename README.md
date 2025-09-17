@@ -87,12 +87,11 @@ hr-analytics-tableau-project/
 │
 ├── images/                             # Images used for dashboard
 │
-├── HR                               # Project documentation and visuals
-│   ├── hr_dashboard.png                # Screenshot of the final Tableau dashboard
+├── HR Dashboard/                       # The final Tableau dashboard workbook
+
 │   ├── data_flow.drawio                # Data flow diagram for cleaning and preparation
 │   ├── data_dictionary.md              # Explanation of dataset fields
 │
-├── tableau/                            # Tableau workbook (.twbx or .twb)
 │
 ├── scripts/                            # SQL/Excel cleaning scripts if applicable
 │
