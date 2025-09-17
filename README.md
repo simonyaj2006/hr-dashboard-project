@@ -87,7 +87,7 @@ hr-analytics-tableau-project/
 │
 ├── images/                             # Images used for dashboard
 │
-├── docs/                               # Project documentation and visuals
+├── HR                               # Project documentation and visuals
 │   ├── hr_dashboard.png                # Screenshot of the final Tableau dashboard
 │   ├── data_flow.drawio                # Data flow diagram for cleaning and preparation
 │   ├── data_dictionary.md              # Explanation of dataset fields
