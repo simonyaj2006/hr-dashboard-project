@@ -97,7 +97,7 @@ hr-analytics-tableau-project/
 │ 
 ├── generate-data.py                    # Code used to generate the data
 │
-└── mockups.drawio.png                  # License information
+└── mockups.drawio.png                  # Rough draft for layout of dashboard
 ```
 ---
 
