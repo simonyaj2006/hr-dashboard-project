@@ -97,8 +97,7 @@ hr-analytics-tableau-project/
 ├── scripts/                            # SQL/Excel cleaning scripts if applicable
 │
 ├── README.md                           # Project overview and instructions
-├── LICENSE                             # License information
-└── .gitignore                          # Files and directories to be ignored
+└── LICENSE                             # License information
 ```
 ---
 
