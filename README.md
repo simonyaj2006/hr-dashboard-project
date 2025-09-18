@@ -113,6 +113,8 @@ hr-analytics-tableau-project/
 
 This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
 
+---
+
 ##  About Me
 
 Hi there! I'm **Simon Yang**. I’m a College Student on a mission to practice my skills and learn more about working with data.
